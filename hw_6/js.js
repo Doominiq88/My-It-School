@@ -57,3 +57,24 @@
 // } else if (a == b) {
 //     console.log(c);
 // }
+
+
+
+// function century1(year) {
+
+//     if (year % 100 == 0) {
+//         return century = year / 100
+//     } else if (year % 100 != 0) {
+//         return century = Math.ceil(year / 100);
+//     }
+// }
+// console.log(century1(2001));
+
+// let duplicateArr = [1, 1, 2, 3, 4, 4, 5, 9];
+
+// let uniqArr = [...new Set(duplicateArr)];
+
+// function distinct(a) {
+
+// }
+// console.log(uniqArr);

@@ -1,0 +1,18 @@
+     body {
+         margin: 30px;
+     }
+     
+     .msg {
+         background-color: silver;
+         color: rgb(209, 34, 171);
+     }
+     
+     .alert {
+         background-color: rgb(110, 78, 184);
+         color: rgb(149, 192, 31);
+     }
+     
+     .error {
+         background-color: rgb(236, 19, 19);
+         color: rgb(205, 218, 26);
+     }
